@@ -79,3 +79,15 @@ Además, usaremos el servicio [AWS Identity and Access Management (IAM)](https:/
 **SDK AWS:** SDK significa “Kit de desarrollo de software”. Los SDK AWS brindan un conjunto de herramientas, bibliotecas, documentación, muestras de código, procesos y guías que les permiten a los desarrolladores crear aplicaciones de software en una plataforma específica.
 
 **Política IAM:** se trata de un documento que define a qué recursos de AWS puede acceder una entidad (p. ej., servicio, usuario, grupo).
+
+# Módulo 5: agregue interactividad a la aplicación Web
+
+## En este módulo, modificará su sitio Web estático para invocar la API y mostrar el texto personalizado ingresado.
+
+Actualizaremos el sitio Web estático para invocar la API REST. Esto agregará la capacidad de mostrar el texto basado en lo que ingresó.
+
+## Conceptos clave
+
+**Implementación de un sitio Web:** Hacer disponible un sitio Web para los usuarios.
+**Entorno:** Una etapa como "prod," "dev," o "staging" donde se puede ejecutar una aplicación o sitio web.
+**Invocación de una API:** enviar un evento a una API para desencadenar un comportamiento específico.
